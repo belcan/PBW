@@ -11,27 +11,37 @@ body {
     text-align: center;
 }
 
-#male {}
+#male {
+    margin-left: 181px;
+    margin-top: 54px;
+    display: none;
+}
+
+#female {
+    margin-left: 181px;
+    margin-top: 54px;
+    display: none;
+
+}
 
 #malCol {
     color: darkblue;
-    font-size: 1.2rem;
+    font-size: 1.9rem;
+    margin-bottom: 55px;
+    text-align: center;
 }
-
-
-#female {}
 
 #femCol {
     color: darkred;
-    font-size: 1.2rem;
+    font-size: 1.9rem;
+    text-align: center;
+    margin-bottom: 33px;
+
 }
 
-
-
 #pthight {
-    margin: 20px 50px 45px 0px;
+    margin: 60px 50px 25px 0px;
     text-align: center;
-
 }
 
 #number {
