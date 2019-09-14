@@ -80,6 +80,7 @@ body {
 #weight {
 
     font-size: 30px;
+    font-weight: bold;
     margin: 0px 50px 75px 50px;
     text-align: center;
 }
