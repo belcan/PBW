@@ -6,7 +6,7 @@ function calculateM() {
         document.getElementById("calcpbm").innerHTML = "Ha-ha, very funny";
         document.getElementById("weight").innerHTML = "<img src= 'funnymusk.jpg'>";
     } else if (a >= 50) {
-        document.getElementById("calcpbm").innerHTML = "Calculated PBW for male patient";
+        document.getElementById("calcpbm").innerHTML = "PBW for Male Patient";
         document.getElementById("weight").innerHTML = b + 10 + ' kg';
     } else if (a < 1 && a >= 0) {
         document.getElementById("calcpbm").innerHTML = "Please enter hight in cm";
@@ -28,7 +28,7 @@ function calculateF() {
         document.getElementById("calcpbm").innerHTML = "Ha-ha, very funny";
         document.getElementById("weight").innerHTML = "<img src= 'funnymusk.jpg'>";
     } else if (a >= 50) {
-        document.getElementById("calcpbm").innerHTML = "Calculated PBW for female patient";
+        document.getElementById("calcpbm").innerHTML = "PBW for Female Patient";
         document.getElementById("weight").innerHTML = b + 10 + ' kg';
     } else if (a < 1 && a >= 0) {
         document.getElementById("calcpbm").innerHTML = "Please enter hight in cm";
